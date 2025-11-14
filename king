@@ -2,3 +2,5 @@ x=10 y=20
 z=70
 all files are updated
 Now webhook should automatically retrive
+
+poll scm should work now
